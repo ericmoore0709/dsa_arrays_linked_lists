@@ -69,7 +69,7 @@ class LinkedList {
   /** average(): return an average of all values in the list */
 
   average() {
-    
+
   }
 }
 
